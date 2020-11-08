@@ -6,7 +6,7 @@ https://netflix-github.web.app/
 -> Compound & Styled components\
 -> React Router\
 -> Firebase (Firestore/auth)\
--> Fuse.js \
+-> Fuse.js 
 
 # Project Description
 
