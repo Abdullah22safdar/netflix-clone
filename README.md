@@ -2,11 +2,11 @@
 https://netflix-github.web.app/
 
 # Technologies, Libraries And Stack Used
--> React js (custom hooks, context, portals)
--> Compound & Styled components
--> React Router
--> Firebase (Firestore/auth)
--> Fuse.js 
+-> React js (custom hooks, context, portals)\
+-> Compound & Styled components\
+-> React Router\
+-> Firebase (Firestore/auth)\
+-> Fuse.js \
 
 # Project Description
 
